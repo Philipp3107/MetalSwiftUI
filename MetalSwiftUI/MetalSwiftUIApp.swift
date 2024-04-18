@@ -9,8 +9,8 @@ import SwiftUI
 
 @main
 struct MetalSwiftUIApp: App {
-    var body: some Scene {
-        WindowGroup {
+    var body: some Scene{
+        WindowGroup{
             ContentView()
         }
     }
